@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnisarggada" alt="nnisarggada" /></a> </p>
 
-- 🔭 I’m currently working on [fly | Self-hosted Google Drive](https://github.com/nnisarggada/fly)
+- 🔭 I’m currently working on <a href="https://github.com/nnisarggada/fly">fly | Self-hosted Google Drive</a>
 
 - 🌱 I’m currently learning **NextJS :P**
 
