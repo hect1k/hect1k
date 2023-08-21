@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS :P**
 
-- 👨‍💻 All of my projects are available at [nnisarg.in](nnisarg.in)
+- 👨‍💻 All of my projects are available at [nnisarg.in](https://nnisarg.in)
 
 - 💬 Ask me about **Linux, Self-hosting, TailwindCSS**
 
