@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Forging My Personal Cloud: Unveiling the Story Behind My NextJS-Powered Cloud Storage](https://medium.com/@gadannisarg/forging-my-personal-cloud-unveiling-the-story-behind-my-nextjs-powered-cloud-storage-97bee992d034?source=rss-c31d94e4c284------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
