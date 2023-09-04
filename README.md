@@ -21,6 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I created PACMAN](https://medium.com/@gadannisarg/i-created-pacman-d9bce5c7d5d2?source=rss-c31d94e4c284------2)
+- [Self-Hosting PACMAN: Your Step-by-Step Guide](https://medium.com/@gadannisarg/self-hosting-pacman-your-step-by-step-guide-e2dfae3fab29?source=rss-c31d94e4c284------2)
 - [Forging My Personal Cloud: Unveiling the Story Behind My NextJS-Powered Cloud Storage](https://medium.com/@gadannisarg/forging-my-personal-cloud-unveiling-the-story-behind-my-nextjs-powered-cloud-storage-97bee992d034?source=rss-c31d94e4c284------2)
 <!-- BLOG-POST-LIST:END -->
 
