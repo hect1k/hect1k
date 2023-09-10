@@ -21,9 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [I created PACMAN](https://medium.com/@gadannisarg/i-created-pacman-d9bce5c7d5d2?source=rss-c31d94e4c284------2)
-- [Self-Hosting PACMAN: Your Step-by-Step Guide](https://medium.com/@gadannisarg/self-hosting-pacman-your-step-by-step-guide-e2dfae3fab29?source=rss-c31d94e4c284------2)
-- [Forging My Personal Cloud: Unveiling the Story Behind My NextJS-Powered Cloud Storage](https://medium.com/@gadannisarg/forging-my-personal-cloud-unveiling-the-story-behind-my-nextjs-powered-cloud-storage-97bee992d034?source=rss-c31d94e4c284------2)
+- [&quot;How do I learn to code?&quot; Here&#39;s how:](https://dev.to/nnisarggada/how-do-i-learn-to-code-heres-how-4f1)
+- [Introducing SWFT - Simple Web-based File Transfer! 📁✨](https://dev.to/nnisarggada/introducing-swft-simple-web-based-file-transfer-1m2h)
+- [Self-Hosting PACMAN: Your Step-by-Step Guide](https://dev.to/nnisarggada/self-hosting-pacman-your-step-by-step-guide-1b5j)
+- [I created PACMAN - not what you think 👀👀](https://dev.to/nnisarggada/i-created-pacman-not-what-you-think-5cgm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
