@@ -21,10 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;How do I learn to code?&quot; Here&#39;s how:](https://dev.to/nnisarggada/how-do-i-learn-to-code-heres-how-4f1)
-- [Introducing SWFT - Simple Web-based File Transfer! 📁✨](https://dev.to/nnisarggada/introducing-swft-simple-web-based-file-transfer-1m2h)
-- [Self-Hosting PACMAN: Your Step-by-Step Guide](https://dev.to/nnisarggada/self-hosting-pacman-your-step-by-step-guide-1b5j)
-- [I created PACMAN - not what you think 👀👀](https://dev.to/nnisarggada/i-created-pacman-not-what-you-think-5cgm)
+- [Become a CSS God: Simple tips to get better at CSS 🌟✨](https://nnisarg.in/blogs/become-a-css-god/)
+- [&quot;How do I learn to code?&quot; Here&#39;s how:](https://nnisarg.in/blogs/how-do-i-learn-to-code/)
+- [Introducing SWFT - Simple Web-based File Transfer! 📁✨](https://nnisarg.in/blogs/introducing-swft/)
+- [I created PACMAN - not what you think 👀👀](https://nnisarg.in/blogs/i-created-pacman/)
+- [Self-Hosting PACMAN: Your Step-by-Step Guide](https://nnisarg.in/blogs/self-hosting-pacman/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
