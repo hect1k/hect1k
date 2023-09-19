@@ -21,10 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Become a CSS God: Simple tips to get better at CSS 🌟✨](https://nnisarg.in/blogs/become-a-css-god/)
+- [Test](https://nnisarg.in/blogs/test/)
 - [&quot;How do I learn to code?&quot; Here&#39;s how:](https://nnisarg.in/blogs/how-do-i-learn-to-code/)
 - [Introducing SWFT - Simple Web-based File Transfer! 📁✨](https://nnisarg.in/blogs/introducing-swft/)
 - [I created PACMAN - not what you think 👀👀](https://nnisarg.in/blogs/i-created-pacman/)
-- [Self-Hosting PACMAN: Your Step-by-Step Guide](https://nnisarg.in/blogs/self-hosting-pacman/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
