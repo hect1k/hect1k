@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [nnisarg.in](nnisarg.in)
 
-- 📝 I regularly write articles on [nnisarg.in](https://nnisarg.in/blogs) and cross-post to [dev.to](https://dev.to/nnisarggada)
+- 📝 I regularly write articles on [nnisarg.in](https://nnisarg.in/blogs) and cross-post to [dev.to](https://dev.to/nnisarggada) and [medium](https://medium.com/@gadannisarg)
 
 - 💬 Ask me about **Linux and Open Source**
 
