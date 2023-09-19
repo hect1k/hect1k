@@ -21,7 +21,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Become a CSS God: Simple tips to get better at CSS 🌟✨](https://nnisarg.in/blogs/become-a-css-god/)
 - [&quot;How do I learn to code?&quot; Here&#39;s how:](https://nnisarg.in/blogs/how-do-i-learn-to-code/)
 - [Introducing SWFT - Simple Web-based File Transfer! 📁✨](https://nnisarg.in/blogs/introducing-swft/)
 - [I created PACMAN - not what you think 👀👀](https://nnisarg.in/blogs/i-created-pacman/)
