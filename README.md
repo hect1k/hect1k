@@ -45,3 +45,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnisarggada&" alt="nnisarggada" /></p>
 
+[![An image of @nnisarggada's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nnisarggada)](https://holopin.io/@nnisarggada)
+
