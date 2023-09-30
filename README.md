@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnisarggada" alt="nnisarggada" /></a> </p>
 
-- 🔭 I’m currently working on [SWFT](https://github.com/nnisarggada/swft)
+- 🔭 I’m currently working on [ZenLink](https://github.com/nnisarggada/zenlink)
 
 - 🌱 I’m currently learning [**astro**](https://astro.build)
 
@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nnisarggada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnisarggada" height="30" width="40" /></a>
-<a href="https://instagram.com/iamnnisarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nnisarg.in" height="30" width="40" /></a>
+<a href="https://instagram.com/_u/nnisarggada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nnisarg.in" height="30" width="40" /></a>
 <a href="https://dev.to/nnisarggada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nnisarggada" height="30" width="40" /></a>
 <a href="https://medium.com/@gadannisarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gadannisarg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nnisarggada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nnisarggada" height="30" width="40" /></a>
