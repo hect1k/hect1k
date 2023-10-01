@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnisarggada" alt="nnisarggada" /></a> </p>
 
-- 🔭 I’m currently working on [ZenLink](https://github.com/nnisarggada/zenlink)
+- 🔭 I’m currently working on [ZenLink](https://short.nnisarg.in)
 
 - 🌱 I’m currently learning [**astro**](https://astro.build)
 
 - 👨‍💻 All of my projects are available at [nnisarg.in](https://nnisarg.in)
 
-- 📝 I regularly write articles on [nnisarg.in](https://nnisarg.in/blogs) and cross-post to [dev.to](https://dev.to/nnisarggada) and [medium](https://medium.com/@gadannisarg)
+- 📝 I regularly write articles on [nnisarg.in](https://nnisarg.in/blog) and cross-post to [dev.to](https://dev.to/nnisarggada) and [medium](https://medium.com/@gadannisarg)
 
 - 💬 Ask me about **Linux and Open Source**
 
