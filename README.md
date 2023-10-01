@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ZenLink](https://short.nnisarg.in)
 
-- 🌱 I’m currently learning [**astro**](https://astro.build)
+- 🌱 I’m currently learning [astro](https://astro.build)
 
 - 👨‍💻 All of my projects are available at [nnisarg.in](https://nnisarg.in)
 
