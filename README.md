@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning [**astro**](https://astro.build)
 
-- 👨‍💻 All of my projects are available at [nnisarg.in](nnisarg.in)
+- 👨‍💻 All of my projects are available at [nnisarg.in](https://nnisarg.in)
 
 - 📝 I regularly write articles on [nnisarg.in](https://nnisarg.in/blogs) and cross-post to [dev.to](https://dev.to/nnisarggada) and [medium](https://medium.com/@gadannisarg)
 
