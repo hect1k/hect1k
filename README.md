@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling My Digital Arsenal: What I Use](https://nnisarg.in/blog/what-i-use/)
 - [Organizing My First Hackathon: A Journey of Discovery and Growth](https://nnisarg.in/blog/organising-my-first-hackathon/)
 - [URLs Should Be Simple: Presenting ZenLink](https://nnisarg.in/blog/urls-should-be-simple/)
 - [Become a CSS God: Simple tips to get better at CSS 🌟✨](https://nnisarg.in/blog/become-a-css-god/)
 - [&quot;How do I learn to code?&quot; Here&#39;s how:](https://nnisarg.in/blog/how-do-i-learn-to-code/)
-- [Introducing SWFT - Simple Web-based File Transfer! 📁✨](https://nnisarg.in/blog/introducing-swft/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
