@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Magic Behind Seamless Streaming: How HLS Transforms Video Delivery](https://nnisarg.in/blog/magic-behind-video-streaming/)
 - [The Paradox of Popularity: When the Underdog Becomes the Underwhelming](https://nnisarg.in/blog/paradox-of-popularity/)
 - [Unveiling My Digital Arsenal: What I Use](https://nnisarg.in/blog/what-i-use/)
 - [Organizing My First Hackathon: A Journey of Discovery and Growth](https://nnisarg.in/blog/organising-my-first-hackathon/)
 - [URLs Should Be Simple: Presenting ZenLink](https://nnisarg.in/blog/urls-should-be-simple/)
-- [Become a CSS God: Simple tips to get better at CSS 🌟✨](https://nnisarg.in/blog/become-a-css-god/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
