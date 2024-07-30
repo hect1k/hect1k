@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnisarggada" alt="nnisarggada" /></a> </p>
 
-- 🔭 I’m currently working on [OpenShot](https://openshot.nnisarg.in)
-
 - 🌱 I’m currently learning [astro](https://astro.build)
 
 - 👨‍💻 All of my projects are available at [nnisarg.in](https://nnisarg.in)
