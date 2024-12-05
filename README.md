@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Embracing the Suckless Philosophy: A Minimalist Approach to Computing and Life](https://nnisarg.in/blog/embracing-the-suckless-philosophy/)
 - [Building MUNDRA: Revolutionizing MUN Delegate Management with Tech](https://nnisarg.in/blog/building-mundra/)
 - [Dealing With Burnout](https://nnisarg.in/blog/dealing-with-burnout/)
 - [Unlocking the Magic Behind Seamless Streaming: How HLS Transforms Video Delivery](https://nnisarg.in/blog/magic-behind-video-streaming/)
 - [The Paradox of Popularity: When the Underdog Becomes the Underwhelming](https://nnisarg.in/blog/paradox-of-popularity/)
-- [Unveiling My Digital Arsenal: What I Use](https://nnisarg.in/blog/what-i-use/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
