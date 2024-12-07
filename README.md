@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I created PACMAN - not what you think 👀👀](https://nnisarg.in/blog/i-created-pacman/)
 - [Embracing the Suckless Philosophy: A Minimalist Approach to Computing and Life](https://nnisarg.in/blog/embracing-the-suckless-philosophy/)
 - [Building MUNDRA: Revolutionizing MUN Delegate Management with Tech](https://nnisarg.in/blog/building-mundra/)
 - [Dealing With Burnout](https://nnisarg.in/blog/dealing-with-burnout/)
 - [Unlocking the Magic Behind Seamless Streaming: How HLS Transforms Video Delivery](https://nnisarg.in/blog/magic-behind-video-streaming/)
-- [The Paradox of Popularity: When the Underdog Becomes the Underwhelming](https://nnisarg.in/blog/paradox-of-popularity/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
