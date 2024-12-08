@@ -30,7 +30,6 @@
 <a href="https://linkedin.com/in/nnisarggada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnisarggada" height="30" width="40" /></a>
 <a href="https://instagram.com/nnisarg.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nnisarg.in" height="30" width="40" /></a>
 <a href="https://dev.to/nnisarggada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nnisarggada" height="30" width="40" /></a>
-<a href="https://medium.com/@gadannisarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gadannisarg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nnisarggada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nnisarggada" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
