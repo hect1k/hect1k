@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nnisarg Gada</h1>
-<h3 align="center">Just another sleep deprived Comp. Sci. student :/</h3>
+<h3 align="center">"Less code, less bloat, more freedom."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnisarggada&label=Profile%20views&color=0e75b6&style=flat" alt="nnisarggada" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnisarggada" alt="nnisarggada" /></a> </p>
 
-- 🌱 I’m currently learning [astro](https://astro.build)
-
-- 👨‍💻 All of my projects are available at [nnisarg.in](https://nnisarg.in)
-
-- 📝 I regularly write articles on [nnisarg.in](https://nnisarg.in/blog) and cross-post to [dev.to](https://dev.to/nnisarggada) and [medium](https://medium.com/@gadannisarg)
-
-- 💬 Ask me about **Linux and Open Source**
-
-- 📫 How to reach me **contact@nnisarg.in** or **gadannisarg@gmail.com**
-
-- ⚡ Fun fact **I'm existential since 14**
+### 👨‍💻 About Me
+- 🌱 **Currently Exploring:** [Go](https://go.dev)  
+- 💻 **My Digital Playground:** [nnisarg.in](https://nnisarg.in)  
+- ✍️ **Where I Share My Thoughts:**  
+  - Personal Blog: [nnisarg.in/blog](https://nnisarg.in/blog)  
+  - Cross-posted on [DEV.to](https://dev.to/nnisarggada)
+- 💬 **Let’s Chat About:** Linux, Open Source, and minimalist computing  
+- 📫 **Reach Me At:**  
+  - ✉️ [contact@nnisarg.in](mailto:contact@nnisarg.in)  
+  - ✉️ [gadannisarg@gmail.com](mailto:gadannisarg@gmail.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
