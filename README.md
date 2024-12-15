@@ -12,9 +12,7 @@
   - Personal Blog: [nnisarg.in/blog](https://nnisarg.in/blog)  
   - Cross-posted on [DEV.to](https://dev.to/nnisarggada)
 - 💬 **Let’s Chat About:** Linux, Open Source, and minimalist computing  
-- 📫 **Reach Me At:**  
-  - ✉️ [contact@nnisarg.in](mailto:contact@nnisarg.in)  
-  - ✉️ [gadannisarg@gmail.com](mailto:gadannisarg@gmail.com)
+- 📫 **Reach Me At:** ✉️ [contact@nnisarg.in](mailto:contact@nnisarg.in)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
