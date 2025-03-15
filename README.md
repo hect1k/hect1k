@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using the Internet Securely](https://nnisarg.in/blog/using-the-internet-securely/)
 - [MAN is Man’s Best Friend!](https://nnisarg.in/blog/man-is-mans-best-friend/)
 - [Publishing My First AUR Package: CPIG](https://nnisarg.in/blog/my-first-aur-package/)
 - [I created PACMAN - not what you think 👀👀](https://nnisarg.in/blog/i-created-pacman/)
 - [Embracing the Suckless Philosophy: A Minimalist Approach to Computing and Life](https://nnisarg.in/blog/embracing-the-suckless-philosophy/)
-- [Building MUNDRA: Revolutionizing MUN Delegate Management with Tech](https://nnisarg.in/blog/building-mundra/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
