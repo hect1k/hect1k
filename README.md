@@ -12,11 +12,11 @@
 
 # ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible You: Privacy in the Digital Age](https://nnisarg.in/blog/the-invisible-you/)
 - [Using the Internet Securely](https://nnisarg.in/blog/using-the-internet-securely/)
 - [MAN is Man’s Best Friend!](https://nnisarg.in/blog/man-is-mans-best-friend/)
 - [Publishing My First AUR Package: CPIG](https://nnisarg.in/blog/my-first-aur-package/)
 - [I created PACMAN - not what you think 👀👀](https://nnisarg.in/blog/i-created-pacman/)
-- [Embracing the Suckless Philosophy: A Minimalist Approach to Computing and Life](https://nnisarg.in/blog/embracing-the-suckless-philosophy/)
 <!-- BLOG-POST-LIST:END -->
 
 # 🌐 Socials:
