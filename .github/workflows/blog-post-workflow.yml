@@ -1,14 +1,80 @@
-name: Latest blog post workflow
+name: Latest Blog Post Workflow
+
 on:
   schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with Latest Blog Posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://nnisarg.in/rss.xml"
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y curl xmlstarlet
+
+      - name: Fetch and check latest blog post date
+        id: check
+        run: |
+          curl -s https://nnisarg.in/rss.xml -o feed.xml
+
+          latest_date=$(xmlstarlet sel -t -v "(//item/pubDate)[1]" feed.xml | tr -d '\r\n')
+          echo "Latest post date: $latest_date"
+
+          if [ -f .last_update ]; then
+            last_date=$(cat .last_update)
+            echo "Last recorded date: $last_date"
+          else
+            last_date=""
+          fi
+
+          if [ "$latest_date" = "$last_date" ]; then
+            echo "No new posts. Skipping update."
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "$latest_date" > .last_update
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Exit early if no new posts
+        if: steps.check.outputs.skip == 'true'
+        run: echo "No updates needed."
+
+      - name: Fetch latest 5 posts
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          xmlstarlet sel -t -m "//item[position()<=5]" \
+            -v "concat('- [', title, '](', link, ')')" -n feed.xml > blog_list.txt
+
+          echo "" >> blog_list.txt
+          echo "_Last updated: $(date -u '+%Y-%m-%d %H:%M UTC')_" >> blog_list.txt
+
+      - name: Update README section
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          start="<!--START_SECTION:blog-->"
+          end="<!--END_SECTION:blog-->"
+          new_content="$(cat blog_list.txt)"
+
+          awk -v start="$start" -v end="$end" -v new="$new_content" '
+            $0 ~ start {print; print new; f=1; next}
+            $0 ~ end {f=0}
+            !f
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit and push changes
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md .last_update
+          git commit -m "chore: update latest blog posts"
+          git push
