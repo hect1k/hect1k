@@ -1,3 +1,18 @@
+<div style="border: 3px solid #d68a1f; padding: 20px; margin: 20px 0; background: #282624;">
+  <h2 align="center" style="color:#d68a1f; margin:0; font-size: 28px;">🚨 READ THIS BEFORE ANYTHING ELSE 🚨</h2>
+  <p style="margin:15px 0 0 0; color:#fff; font-size: 16px; line-height:1.6;">
+    <b>I am not active on GitHub anymore.</b>  
+    Evaluating me based on this profile will give you an incomplete and outdated picture.
+    <br><br>
+    All my real, current work lives on <strong>Codeberg</strong>.
+    <br><br>
+    👉 <strong style="font-size:18px;"><a href="https://codeberg.org/hect1k" style="color:#d68a1f;">https://codeberg.org/hect1k</a></strong>
+    <br><br>
+    This GitHub is mostly old projects and mirrors.  
+    If you're reviewing my work, go to Codeberg. Anything else is missing the point.
+  </p>
+</div>
+
 <h1 align="center">Hi 👋, I'm Nnisarg Gada</h1>
 <h3 align="center">"Less code, less bloat, more freedom."</h3>
 
